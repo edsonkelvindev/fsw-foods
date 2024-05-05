@@ -22,7 +22,7 @@ model Category {
   name        String
   imageUrl    String
   restaurants Restaurant[]
-  Product     Product[]
+  Products    Product[]
 }
 
 model Product {
